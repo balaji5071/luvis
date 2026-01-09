@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Classic White Linen Shirt",
+        "category": "men",
+        "price": 1499,
+        "originalPrice": 2499,
+        "discount": 40,
+        "images": [
+            "/placeholder.jpg"
+        ],
+        "description": "Premium quality linen shirt perfect for summer. Breathable fabric with a relaxed fit.",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "inStock": true,
+        "isFeatured": true
+    },
+    {
+        "id": "2",
+        "name": "Slim Fit Black Chinos",
+        "category": "men",
+        "price": 1299,
+        "originalPrice": 1999,
+        "discount": 35,
+        "images": [
+            "/placeholder.jpg"
+        ],
+        "description": "Essential black chinos for a sharp look. comfortable stretch cotton blend.",
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "inStock": true,
+        "isFeatured": false
+    },
+    {
+        "id": "3",
+        "name": "Boys Graphic Tee - Space Explorer",
+        "category": "boys",
+        "price": 499,
+        "originalPrice": 799,
+        "discount": 38,
+        "images": [
+            "/placeholder.jpg"
+        ],
+        "description": "Fun graphic tee for little explorers. Soft cotton fabric.",
+        "sizes": [
+            "4-5Y",
+            "6-7Y",
+            "8-9Y",
+            "10-11Y"
+        ],
+        "inStock": true,
+        "isFeatured": true
+    },
+    {
+        "id": "4",
+        "name": "Boys Denim Shorts",
+        "category": "boys",
+        "price": 699,
+        "originalPrice": 999,
+        "discount": 30,
+        "images": [
+            "/placeholder.jpg"
+        ],
+        "description": "Durable denim shorts with elastic waistband for active kids.",
+        "sizes": [
+            "4-5Y",
+            "6-7Y",
+            "8-9Y",
+            "10-11Y"
+        ],
+        "inStock": true,
+        "isFeatured": false
+    }
+]
